@@ -20,7 +20,7 @@ Esta aplicación utiliza un modelo de regresión polinómica multivariable para 
 # Cargar los datos
 @st.cache_data
 def load_data():
-    return pd.read_csv("Position_Salaries.csv")
+    return pd.read_csv("Position_Salaries_Extendido.csv")
 
 df = load_data()
 
@@ -50,6 +50,16 @@ modelo.fit(X_poly, y)
 y_pred = modelo.predict(X_poly)
 r2 = r2_score(y, y_pred)
 st.write(f"Coeficiente de determinación R²: {r2:.3f}")
+# Gráfico de comparación: Salario real vs. Salario predicho
+st.subheader("Comparación: Salario Real vs. Predicho")
+fig, ax = plt.subplots()
+ax.scatter(y, y_pred, alpha=0.6, color="green", edgecolors="black")
+ax.plot([y.min(), y.max()], [y.min(), y.max()], "r--", lw=2)
+ax.set_xlabel("Salario real")
+ax.set_ylabel("Salario predicho")
+ax.set_title("Gráfico de dispersión")
+st.pyplot(fig)
+
 
 # Formulario para ingresar nuevos datos
 st.subheader("Hacer una predicción personalizada")
