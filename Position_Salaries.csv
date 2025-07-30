@@ -1,0 +1,101 @@
+Level,Position,Experiencia,Educacion,Departamento,Salario
+7,Manager,19,Doctorado,IT,83731.1
+10,Senior Director,18,Licenciatura,IT,102718.67
+8,Senior Manager,20,Maestría,IT,73103.97
+12,SVP,20,Maestría,Marketing,136675.21
+6,Senior Associate,11,Licenciatura,IT,36298.93
+12,SVP,15,Licenciatura,IT,115967.07
+12,SVP,19,Maestría,IT,133974.18
+9,Director,6,Licenciatura,Finanzas,71974.62
+12,SVP,13,Doctorado,Finanzas,147770.65
+12,SVP,7,Licenciatura,Finanzas,92213.62
+4,Senior Analyst,17,Maestría,Marketing,34562.67
+4,Senior Analyst,17,Maestría,Marketing,45835.72
+10,Senior Director,3,Maestría,Operaciones,76865.45
+13,EVP,17,Maestría,Marketing,141668.66
+9,Director,12,Licenciatura,Recursos Humanos,64080.78
+8,Senior Manager,10,Licenciatura,IT,65269.66
+3,Analyst,0,Maestría,Marketing,15340.7
+7,Manager,8,Maestría,Marketing,50549.56
+1,Intern,15,Licenciatura,Recursos Humanos,46275.26
+11,Vice President,2,Licenciatura,Recursos Humanos,96159.14
+15,CEO,13,Doctorado,Recursos Humanos,226584.41
+7,Manager,8,Maestría,Marketing,57670.89
+10,Senior Director,12,Licenciatura,Finanzas,82751.77
+14,C-Level,4,Licenciatura,Recursos Humanos,114929.04
+15,CEO,10,Licenciatura,Recursos Humanos,160591.57
+6,Senior Associate,1,Maestría,Finanzas,33174.41
+5,Associate,5,Licenciatura,Operaciones,48103.88
+12,SVP,6,Doctorado,Finanzas,129725.16
+9,Director,19,Licenciatura,IT,79301.13
+9,Director,4,Maestría,Marketing,64794.54
+12,SVP,14,Licenciatura,Finanzas,104997.21
+10,Senior Director,19,Licenciatura,Marketing,88769.44
+3,Analyst,16,Licenciatura,Finanzas,37120.61
+1,Intern,0,Licenciatura,Marketing,19308.35
+5,Associate,11,Licenciatura,Operaciones,39442.01
+1,Intern,5,Licenciatura,Operaciones,19258.06
+2,Junior Analyst,5,Licenciatura,Finanzas,27129.52
+13,EVP,2,Maestría,IT,112012.84
+4,Senior Analyst,18,Maestría,IT,43116.72
+9,Director,0,Licenciatura,Marketing,53750.66
+8,Senior Manager,0,Maestría,Finanzas,47944.0
+12,SVP,15,Doctorado,Finanzas,147982.27
+4,Senior Analyst,16,Licenciatura,Operaciones,54004.86
+7,Manager,8,Licenciatura,IT,50570.48
+3,Analyst,19,Doctorado,Finanzas,47922.53
+8,Senior Manager,3,Doctorado,Operaciones,66344.3
+14,C-Level,2,Licenciatura,Finanzas,134153.06
+6,Senior Associate,2,Maestría,Finanzas,25804.57
+4,Senior Analyst,0,Licenciatura,Recursos Humanos,20174.73
+8,Senior Manager,6,Maestría,Finanzas,47550.72
+12,SVP,18,Maestría,Recursos Humanos,138082.69
+11,Vice President,1,Licenciatura,Finanzas,81099.49
+12,SVP,14,Licenciatura,Recursos Humanos,111577.63
+4,Senior Analyst,2,Maestría,Finanzas,12641.07
+12,SVP,13,Doctorado,IT,145607.36
+15,CEO,2,Doctorado,Operaciones,167088.61
+15,CEO,20,Licenciatura,Finanzas,165452.72
+9,Director,9,Doctorado,Marketing,77650.43
+3,Analyst,7,Licenciatura,Marketing,31320.36
+2,Junior Analyst,16,Doctorado,Finanzas,35773.53
+11,Vice President,15,Maestría,Marketing,113681.8
+9,Director,12,Licenciatura,Finanzas,75987.86
+4,Senior Analyst,12,Licenciatura,Operaciones,23594.43
+15,CEO,18,Licenciatura,Recursos Humanos,192316.67
+6,Senior Associate,16,Licenciatura,IT,53070.04
+5,Associate,11,Doctorado,Operaciones,38509.76
+6,Senior Associate,12,Licenciatura,IT,61261.6
+13,EVP,17,Maestría,IT,154097.22
+1,Intern,18,Licenciatura,Marketing,46799.87
+5,Associate,0,Licenciatura,Finanzas,37042.81
+15,CEO,1,Licenciatura,Finanzas,139304.35
+13,EVP,6,Maestría,Recursos Humanos,140557.28
+6,Senior Associate,2,Licenciatura,IT,33253.32
+10,Senior Director,15,Doctorado,Operaciones,130192.78
+1,Intern,4,Licenciatura,Marketing,24968.14
+8,Senior Manager,4,Maestría,Marketing,65463.48
+1,Intern,19,Maestría,Marketing,35866.57
+13,EVP,18,Doctorado,Operaciones,168804.44
+3,Analyst,0,Doctorado,Marketing,19560.65
+12,SVP,13,Licenciatura,IT,101743.75
+2,Junior Analyst,2,Licenciatura,Marketing,32098.43
+10,Senior Director,1,Licenciatura,Operaciones,63988.87
+10,Senior Director,20,Licenciatura,IT,95054.3
+5,Associate,3,Licenciatura,Finanzas,37798.4
+8,Senior Manager,2,Doctorado,Operaciones,77911.94
+8,Senior Manager,4,Licenciatura,Recursos Humanos,46037.19
+7,Manager,2,Licenciatura,Finanzas,38586.54
+9,Director,12,Doctorado,Finanzas,129237.31
+4,Senior Analyst,11,Doctorado,IT,44111.99
+14,C-Level,19,Maestría,Recursos Humanos,161341.16
+5,Associate,2,Maestría,Operaciones,46603.0
+7,Manager,15,Maestría,Recursos Humanos,71899.19
+5,Associate,9,Doctorado,Marketing,61170.57
+11,Vice President,10,Licenciatura,Operaciones,90726.17
+9,Director,9,Doctorado,Finanzas,78646.21
+2,Junior Analyst,1,Licenciatura,Recursos Humanos,24086.76
+6,Senior Associate,18,Maestría,Recursos Humanos,73007.87
+15,CEO,6,Doctorado,Operaciones,191424.21
+4,Senior Analyst,5,Maestría,IT,37299.98
+11,Vice President,9,Doctorado,IT,132187.88
