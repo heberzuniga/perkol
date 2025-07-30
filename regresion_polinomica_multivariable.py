@@ -36,7 +36,7 @@ X = df_encoded.drop(["Salario", "Position"], axis=1)  # Eliminamos 'Position' po
 y = df_encoded["Salario"]
 
 # Selección del grado del polinomio
-grado = st.slider("Selecciona el grado del polinomio", min_value=1, max_value=3, value=2)
+grado = int(st.slider("Selecciona el grado del polinomio", min_value=1, max_value=3, value=2))
 
 # Aplicar transformación polinómica
 poly = PolynomialFeatures(degree=grado, include_bias=False)
