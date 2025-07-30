@@ -20,7 +20,7 @@ Esta aplicación utiliza un modelo de regresión polinómica multivariable para 
 # Cargar los datos
 @st.cache_data
 def load_data():
-    return pd.read_csv("Position_Salaries_Extendido.csv")
+    return pd.read_csv("Position_Salaries.csv")
 
 df = load_data()
 
